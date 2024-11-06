@@ -1,4 +1,4 @@
-# Mi primera Garería Modal 📚
+# Mi primera Garería Modal 📷
 Este repositorio contiene una galería modal desarrollado como ejercicio de un curso de Front-End. La estructura y el diseño se han realizado utilizando solo HTML, CSS y JS.
 
 ## Descripción
