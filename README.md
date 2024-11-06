@@ -5,9 +5,7 @@ Este repositorio contiene una galería modal desarrollado como ejercicio de un c
 Esta galería modal permite al usuario pasar las fotos haciendo click en los botones correspondientes. La interfaz se ha diseñado de manera sencilla para que al usuariario le sea más fácil interactuar con ella.
 
 ## Tecnologías utilizadas
-HTML: para la estructura del ejercicio.
-CSS: para el estilo y diseño visual del ejercicio.
-JS: para darle dinamismo al ejercicio.
+HTML: para la estructura del ejercicio. | CSS: para el estilo y diseño visual del ejercicio. | JS: para darle dinamismo al ejercicio.
 
 ## Propósito
 Este proyecto tiene como objetivo practicar y demostrar habilidades en HTML, CSS y JS adquiridas en el curso de Front-End. Es ideal como plantilla base para otros proyectos.
